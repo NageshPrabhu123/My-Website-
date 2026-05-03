@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![Nagesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NageshPrabhu123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07040f&title_color=9b6ff5&icon_color=673de6&text_color=c4a8ff)
+![Nagesh's GitHub Stats](https://github-readme-stats.netlify.app/api?username=NageshPrabhu123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07040f&title_color=9b6ff5&icon_color=673de6&text_color=c4a8ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NageshPrabhu123&layout=compact&theme=tokyonight&hide_border=true&bg_color=07040f&title_color=9b6ff5&text_color=c4a8ff)
 
